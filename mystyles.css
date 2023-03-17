@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+  background-color: #334852;
+  color: #4ECCA3
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  font-weight: bold;
+  margin: 1% auto 3%;
+  text-shadow: 5px 0 #232931;
+}
+
+h3{
+  font-family: 'Mynerve', cursive;
+  padding-bottom: 10%;
+  font-size: 2rem;
+}
+
+.dice{
+  display: inline-block;
+  margin: 2% 5% 7%;
+}
+
+img{
+  width: 80%;
+}
+
+footer{
+  color: #fff;
+  font-family: 'Mynerve', cursive;
+  margin: -3% auto;
+  padding-bottom: 1%;
+}
